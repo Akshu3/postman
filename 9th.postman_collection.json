@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "518032ff-f4ea-4ed0-8743-6ef3de3e1225",
+		"name": "9th",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21698764"
+	},
+	"item": [
+		{
+			"name": "for valid code",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "for invalid code",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

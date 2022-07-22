@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "9589d59c-fab7-44a6-9f90-82c528727e15",
+		"name": "10th error-handling",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21698764"
+	},
+	"item": [
+		{
+			"name": "error occured",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "after error handled",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

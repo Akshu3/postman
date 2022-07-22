@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "8098fb95-e20b-4cf3-83bd-a41b58a26048",
+		"name": "8TH",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21698764"
+	},
+	"item": [
+		{
+			"name": "rest",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "soap",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
